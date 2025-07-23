@@ -21,3 +21,7 @@ While no traditional backend framework like Express is visible, the use of bun.l
 This project is suitable for developers or small teams building lightweight inventory systems, personal organizers, or task tracking tools. It can be integrated with a frontend app or used as a microservice in larger systems.
 
 Its clean codebase, modern tooling, and clear documentation make it an excellent foundation for expanding into a full-stack application or deploying as a backend service.
+
+## OUTPUT
+
+<img width="1882" height="815" alt="Image" src="https://github.com/user-attachments/assets/880f4719-1b39-46ea-bf0a-0bc0b12c7ad8" />
