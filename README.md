@@ -1,5 +1,18 @@
 # Library System
 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: ADITYA KADAM
+
+*INTERN ID*: CT08DL378
+
+*DOMAIN*: SOFTWARE DEVELOPMENT
+
+*DURATION*: 8 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+
 This Library System is a lightweight and efficient backend service designed to manage inventory or personal item records. It is ideal for building item tracking systems, digital inventory apps, or tools for cataloging resources. Built with simplicity and speed in mind, the project leverages modern JavaScript tooling and a modular structure, ensuring it is both developer-friendly and easily extendable.
 
 ## Project Objective
